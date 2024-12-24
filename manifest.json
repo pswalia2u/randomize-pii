@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "PII Detector Extension",
+  "version": "1.0",
+  "description": "Detects and replaces sensitive information.",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
