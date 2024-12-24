@@ -1,3 +1,5 @@
+https://buymeacoffee.com/pswalia2ug
+
 # PII Randomizer for AI Prompts
 
 This Chrome extension helps protect your privacy when using AI prompt websites like ChatGPT, Bard, Claude, etc. It automatically detects and replaces Personally Identifiable Information (PII) in the text you paste into the extension's popup, allowing you to generate sanitized text for use in your prompts.
