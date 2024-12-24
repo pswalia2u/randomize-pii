@@ -37,6 +37,3 @@ This Chrome extension helps protect your privacy when using AI prompt websites l
 *   Social Security Numbers (SSNs)
 *   Credit Card Numbers
 
-## Example
-
-**Input:**
